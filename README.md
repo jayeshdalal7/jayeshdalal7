@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayeshdalal7
+- 👋 Hi, I’m @jayeshdalalgojek
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning contract testing and system Design.
 - 💞️ I’m looking to collaborate on DS & algo problem.
